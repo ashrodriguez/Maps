@@ -1,18 +1,18 @@
-body {background-color: #FFFCD9;
-	  color: #C2AF91}
+body {background-color: white;
+	  color: #00668F}
 .blurbtext {
-	color:#B5AE91;
+	color:#8BBACC;
 	font-family: sans-serif;
 	font-size: 20px;
 	font-weight: 200;
 	width: 70%;}
 .maintext {
-	color: #B5AE91;
+	color: #8BBACC;
 	font-size: 20px;
 	font-weight: 800;
 	width: 70%; 
 	display: inline;
 }
 .assignmentrow1 {
-	color:#B5AE91;
+	color:#8BBACC;
 	text-align:center;}
